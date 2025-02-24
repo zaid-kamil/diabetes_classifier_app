@@ -16,11 +16,7 @@ A diabetes classification app using Flutter and Dart.
 ## Project Details
 
 ### Languages Used
-- **C++**: 38.6%
-- **Dart**: 36%
-- **CMake**: 21.3%
-- **HTML**: 2.6%
-- **C**: 1.5%
+- **Dart**: 100%
 
 ### Features
 - Validates diabetes data
